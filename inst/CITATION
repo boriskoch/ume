@@ -1,0 +1,33 @@
+citHeader("To cite the 'ume' package in publications, please use:")
+
+# Main package citation
+bibentry(
+  bibtype = "Article",
+  title = "UltraMassExplorer: a browser-based application for the evaluation of high-resolution mass spectrometric data",
+  author = c(
+    person("T.", "Leefmann"),
+    person("S.", "Frickenhaus"),
+    person("B.P.", "Koch")
+  ),
+  journal = "Rapid Communications in Mass Spectrometry",
+  year = "2019",
+  volume = "33",
+  pages = "193-202",
+  doi = "10.1002/rcm.8315"
+)
+
+# Zenodo formula library citation
+bibentry(
+  bibtype = "Misc",
+  title = "UME Formula Libraries",
+  author = c(
+    person("Boris P.", "Koch"),
+    person("Tim", "Leefmann")
+  ),
+  year = "2025",
+  howpublished = "Zenodo",
+  doi = "10.5281/zenodo.17606457",
+  url = "https://doi.org/10.5281/zenodo.17606457"
+)
+
+citFooter("Thank you for citing our package.")
