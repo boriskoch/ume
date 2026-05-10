@@ -1,11 +1,7 @@
-```yaml
 cff-version: 1.2.0
-
-title: "UME: Ultrahigh-Resolution Mass Spectrometry Data Evaluation for Complex Organic Matter"
-
 message: "If you use UME, please cite the software using the metadata below."
-
 type: software
+title: "UME: Ultrahigh-Resolution Mass Spectrometry Data Evaluation for Complex Organic Matter"
 
 authors:
   - family-names: "Koch"
@@ -14,25 +10,20 @@ authors:
     orcid: "https://orcid.org/0000-0002-8453-731X"
 
 version: "1.6.1"
-
-license: "GPL-3.0"
+date-released: "2026-05-10"
+license: "GPL-3.0-or-later"
 
 repository-code: "https://github.com/boriskoch/ume"
-
 url: "https://github.com/boriskoch/ume"
 
-abstract: >
-  UME provides tools for ultrahigh-resolution mass spectrometry
-  data processing, molecular formula assignment, isotope handling,
-  visualization, and evaluation of complex organic matter datasets.
+abstract: "UME provides tools for ultrahigh-resolution mass spectrometry data processing, molecular formula assignment, isotope handling, visualization, and evaluation of complex organic matter datasets."
 
 keywords:
-  - mass spectrometry
-  - FTICR-MS
-  - Orbitrap
-  - ultrahigh-resolution mass spectrometry
-  - molecular formula assignment
-  - isotope analysis
-  - dissolved organic matter
-  - R package
-```
+  - "mass spectrometry"
+  - "FTICR-MS"
+  - "Orbitrap"
+  - "ultrahigh-resolution mass spectrometry"
+  - "molecular formula assignment"
+  - "isotope analysis"
+  - "dissolved organic matter"
+  - "R package"
