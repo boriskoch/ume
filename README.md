@@ -7,6 +7,9 @@
 
 👉 [The complete UME manual (Vignette)](/vignettes/vignette_ume.pdf)
 
+https://github.com/boriskoch/ume repository is a public release mirror of UME.  
+Active development takes place in AWI GitLab.
+
 ## Usage - quick tour
 
 #### Download predefined UME formula library (Zenodo)
